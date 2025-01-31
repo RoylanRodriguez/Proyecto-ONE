@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9G2/im9MnBM=",
+  "success": true,
+  "projectFilePath": "C:\\PROYECTO\\New folder\\New folder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roylan\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
